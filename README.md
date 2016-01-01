@@ -8,3 +8,6 @@ MonkeyGameWithLeap contains the source code for the project.
 
 HelloWorldTutorial is simply the code from the "Hello, Physics" tutorial 
 on the JMonkey website.
+
+Also tried to use Photon in Unity for networking. Viking Photon is an
+example Photon project.
